@@ -14,7 +14,7 @@
 
 Результат: подготовлен аналитический отчёт и интерактивный дашборд, демонстрирующие влияние маркетинговой активности на финансовые показатели компании. 
 
-   ТЗ 3 - https://docs.google.com/spreadsheets/d/1ev0uOzBtr0iNnfRSdoAmyIybaAfEj1P6rHWX98fY7nM/edit?usp=sharing
+   ДАШБОРД (ТЗ_3) - https://docs.google.com/spreadsheets/d/1ev0uOzBtr0iNnfRSdoAmyIybaAfEj1P6rHWX98fY7nM/edit?usp=sharing
 
  
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -33,3 +33,4 @@
 Используемые нструменты: PostgreSQL (CASE WHEN, агрегации, JOIN-ы, CTE/подзапросы), Excel (постобработка, визуализация).
 
 Результат: подготовлена презентация с основными выводами и визуализациями, демонстрирующая динамику пользовательской активности и влияние маркетинговых факторов на выручку игры.
+[ Посмотреть презентацию]  https://drive.google.com/file/d/1guYEcbnGcrrl578qYo_tRp-YmqDxpkhR/view?usp=drive_link
