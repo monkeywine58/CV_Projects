@@ -13,7 +13,8 @@
 Используемые инструменты: Excel, Google Sheets, функции QUERY, сводные таблицы, визуализации (графики, дашборды).
 
 Результат: подготовлен аналитический отчёт и интерактивный дашборд, демонстрирующие влияние маркетинговой активности на финансовые показатели компании. 
-ТЗ 3 - https://docs.google.com/spreadsheets/d/1ev0uOzBtr0iNnfRSdoAmyIybaAfEj1P6rHWX98fY7nM/edit?usp=sharing
+
+   ТЗ 3 - https://docs.google.com/spreadsheets/d/1ev0uOzBtr0iNnfRSdoAmyIybaAfEj1P6rHWX98fY7nM/edit?usp=sharing
 
  
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
