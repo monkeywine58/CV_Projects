@@ -1,1 +1,23 @@
+--TZ_1.1. Маркетинговая акция. Запрос для расчета DAU (кол-во уникальных пользователей за день)
+SELECT 
+    start_session::date AS "Дата",
+    COUNT(DISTINCT id_user) AS "DAU"
+FROM skygame.game_sessions
+GROUP BY 1
+ORDER BY 1 ASC;
 
+--TZ_1.2. Запрос для расчета WAU (кол-во уникальных пользователей за неделю)
+SELECT 
+    DATE_TRUNC('week', start_session)::date AS "Начало недели",
+    COUNT(DISTINCT id_user) AS "WAU"
+FROM skygame.game_sessions
+GROUP BY 1
+ORDER BY 1 ASC;
+
+--TZ_1.3. Запрос для расчета MAU (кол-во уникальных пользователей за месяц)
+SELECT 
+    DATE_TRUNC('month', start_session)::date AS "Начало месяца",
+    COUNT(DISTINCT id_user) AS "MAU"
+FROM skygame.game_sessions
+GROUP BY 1
+ORDER BY 1 ASC;
