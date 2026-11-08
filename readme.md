@@ -18,6 +18,7 @@
 
 👉 **[ПОСМОТРЕТЬ ДАШБОРД (ТЗ_3)](https://docs.google.com/spreadsheets/d/1ev0uOzBtr0iNnfRSdoAmyIybaAfEj1P6rHWX98fY7nM/edit?usp=sharing)**
 
+👉 **[ПОСМОТРЕТЬ ПРЕЗЕНТАЦИЮ ТЗ EXCEL] (https://drive.google.com/file/d/15snXXRc8SFqcjcprZU6wSIHY9EIdrPI3/view?usp=drive_link)
 
 ---
 
